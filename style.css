@@ -9,7 +9,6 @@
     right: 20px;
 }
 
-
 .github-nav:hover {
     color: #c8c8c8 !important;
 }
@@ -25,14 +24,12 @@
 
 .bgimage {
     height: 100vh;
-    width: 100vw;
     background: url('https://images.hdqwalls.com/wallpapers/mountains-landscape-dark-nature-4k-i0.jpg');
     background-size: cover;
     position: relative;
 }
 
 .imageAboutPage {
-    
     position: absolute;
 }
 
@@ -61,11 +58,11 @@ p {
 
 /* text css above hero image*/
 .hero_title {
-    font-size: 7rem;
+    font-size: 4.5rem;
 }
 
 .hero_desc {
-    font-size: 3.5rem;
+    font-size: 2rem;
 }
 
 .hero-text {
@@ -103,7 +100,6 @@ h1 {
 
 #about {
     font-size: medium;
-
 }
 
 #portfolio {
@@ -240,7 +236,6 @@ h1 {
 .link i {
     font-size: 1.7em;
     transition: all 0.4s;
-   
 }
 
 .link:hover i {
